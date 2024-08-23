@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Bull harness",
+		"unitType": "Civilian",
+		"uniqueTo": "Phoenicia",
+		"replaces": "Trireme",
+		"movement": 3,
+		"strength": 8,
+		"rangedStrength": 8,
+		"range": 1,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"obsoleteTech": "Compass",
+		"upgradesTo": "Galleass",
+		"uniques": ["Cannot enter ocean tiles"],
+		"promotions": ["Favorable Winds"],
+		"hurryCostModifier": 20,
+		"attackSound": "arrow"
+	},
+]
