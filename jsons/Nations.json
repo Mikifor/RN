@@ -29,7 +29,7 @@
 		"outerColor": [43, 35, 82],
 		"innerColor": [189, 145, 158],
 		"uniqueName": "The nomadic horde",
-		"uniqueText": "All cities gain +2 culture, +1 happiness, -1 prudiction upon the medieval era.",
+		"uniqueText": "All cities gain +2 culture, +1 happiness, -1 production upon the medieval era.",
 		"uniques": ["[+2 Culture] [in all cities] <during the [Ancient era]>","[-1 Production] [in all cities] <during the [Ancient era]>"],
 		"cities": ["Kazan","Yar Chaly","Bavly","Almet","Yashel Uzan","Bogelm","Alabuga","Leninogorsk","Chistopol","Zay",
 			"Aznakay","Norlat","Archa","Agryz","Kukmor","Mamadysh","Tetush","Laesh","Bolghar","Jalil",
