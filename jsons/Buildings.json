@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Sweets market",
+		"replaces": "Market",
+		"uniqueTo": "Tatarstan",
+		"gold": 2,
+		"specialistSlots": {
+			"Merchant": 1
+		},
+		"percentStatBonus": {
+			"gold": 40
+		},
+		"happiness": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Currency",
+	},
+	{
+		"name": "Horse farm",
+		"replaces": "Windmill",
+		"uniqueTo": "Tatarstan",
+		"food": 3,
+		"maintenance": 2,
+		"specialistSlots": {
+			"Merchant": 1
+		},
+		"percentStatBonus": {
+			"grows": 5
+		},
+		"hurryCostModifier": 25,
+		"requiredTech": "Economics",
+	},
+]
