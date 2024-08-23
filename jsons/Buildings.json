@@ -28,6 +28,6 @@
 		},
 		"hurryCostModifier": 25,
 		"requiredTech": "Economics",
-		"uniques": ["[+1 Food] from [Horses] tiles [in this city]"],
+		"uniques": ["[+1 Food] from [Horses] tiles [in this city]", "[+15]% growth [in this city]"],
 	},
 ]
