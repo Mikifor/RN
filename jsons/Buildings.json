@@ -3,7 +3,7 @@
 		"name": "Sweets market",
 		"replaces": "Market",
 		"uniqueTo": "Tatarstan",
-		"gold": 2,
+		"gold": 1,
 		"specialistSlots": {
 			"Merchant": 1
 		},
@@ -24,9 +24,10 @@
 			"Merchant": 1
 		},
 		"percentStatBonus": {
-			"grows": 5
+			"grow": 5
 		},
 		"hurryCostModifier": 25,
 		"requiredTech": "Economics",
+		"uniques": ["[+1 Food] from [Horses] tiles [in this city]"],
 	},
 ]
