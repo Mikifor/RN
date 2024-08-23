@@ -1,6 +1,6 @@
 [
 	{
 		"name": "Bull power",
-		"uniques": ["[-25]% tile improvement construction time", "Can build [Land] improvements in tiles", "Automation is a primary action"]
+		"uniques": ["[-25]% tile improvement construction time", "Can build [Land] improvements on tiles", "Automation is a primary action"]
 	},
 ]
