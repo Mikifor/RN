@@ -9,4 +9,18 @@
 		"uniques": ["Consumes [1] [Horses]"],
 		"promotions": ["Bull power"],
 	},
+	{
+		"name": "Atly",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 24,
+		"cost": 140,
+		"requiredTech": "Metal Casting",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["[+1] Sight", "Can move after attacking","[-33]% Strength <vs cities> <when attacking>", "Ignores Zone of Control"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
 ]
