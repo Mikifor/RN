@@ -12,6 +12,7 @@
 	{
 		"name": "Atly",
 		"unitType": "Mounted",
+		"uniqueTo": "Tatarstan",
 		"movement": 5,
 		"strength": 24,
 		"cost": 140,
