@@ -1,12 +1,33 @@
 
 game.png
-size: 1024, 1024
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/Bull harness
+NationIcons/Tatarstan
+  rotate: false
+  xy: 1190, 54
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+UnitIcons/Atly
   rotate: false
   xy: 4, 4
+  size: 610, 610
+  orig: 610, 610
+  offset: 0, 0
+  index: -1
+UnitIcons/Bull harness
+  rotate: false
+  xy: 622, 54
+  size: 560, 560
+  orig: 560, 560
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Bull power
+  rotate: false
+  xy: 622, 54
   size: 560, 560
   orig: 560, 560
   offset: 0, 0
