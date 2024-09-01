@@ -7,27 +7,27 @@ repeat: none
 NationIcons/Tatarstan
   rotate: false
   xy: 4, 4
-  size: 560, 560
-  orig: 560, 560
+  size: 520, 520
+  orig: 520, 520
   offset: 0, 0
   index: -1
 UnitIcons/Atly
   rotate: false
-  xy: 4, 1140
+  xy: 4, 1100
   size: 610, 610
   orig: 610, 610
   offset: 0, 0
   index: -1
 UnitIcons/Bull harness
   rotate: false
-  xy: 4, 572
+  xy: 4, 532
   size: 560, 560
   orig: 560, 560
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Bull power
   rotate: false
-  xy: 622, 1190
+  xy: 622, 1150
   size: 560, 560
   orig: 560, 560
   offset: 0, 0
