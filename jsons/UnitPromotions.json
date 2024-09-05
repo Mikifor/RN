@@ -3,4 +3,14 @@
 		"name": "Bull power",
 		"uniques": ["[-60]% construction time for [All] improvements", "Can build [Land] improvements on tiles", "Automation is a primary action"]
 	},
+	{
+		"name": "The Taiga warrior",
+		"uniques": ["[+20]% Strength <when fighting in [Forest] tiles>", "[+20]% Strength <when fighting in [Marsh] tiles>"]
+	},
+	{
+		"name": "Forest glade",
+		"uniques": ["[+1] Movement <in [Forest] tiles>"]
+	},
 ]
+
+

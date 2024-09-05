@@ -1,0 +1,21 @@
+[
+    {
+        "name": "My JustListOfUniques",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Agriculture",
+        "uniques": [
+            "Must be adjacent to [0] [Coast] tiles",
+            "Must be adjacent to [2] to [6] [Hill] tiles",
+            "Must be adjacent to [0] to [2] [Mountain] tiles",
+            "Grants [Altitude Training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game",
+            "Can only be built to improve a resource",
+            "[+1 Gold] <after discovering [Economics]>",
+            "Does not need removal of [Forest]",
+            "Pillaging this improvement yields approximately [+10 Gold]",
+            "Cannot be built on [Water] tiles"
+        ],
+        "weight": 10
+    }
+]
