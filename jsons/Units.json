@@ -43,7 +43,7 @@
 		"name": "Miekka",
 		"unitType": "Sword",
 		"uniqueTo": "Karelia",
-		"replaces": "Caravel",
+		"replaces": "Longswordsman",
 		"movement": 2,
 		"strength": 21,
 		"cost": 130,
