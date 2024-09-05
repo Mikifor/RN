@@ -17,7 +17,7 @@
 	{
 		"name": "Horse farm",
 		"replaces": "Windmill",
-		"uniqueTo": "Karelia",
+		"uniqueTo": "Tatarstan",
 		"food": 3,
 		"maintenance": 2,
 		"specialistSlots": {
@@ -28,7 +28,10 @@
 		},
 		"hurryCostModifier": 25,
 		"requiredTech": "Economics",
-		"uniques": ["[+1 Food] from [Horses] tiles [in this city]", "[+15]% growth [in this city]"],
+		"uniques": [
+			"[+1 Food] from [Horses] tiles [in this city]",
+			"[+15]% growth [in this city]"
+		],
 	},
 	{
 		"name": "Paja",
@@ -36,13 +39,17 @@
 		"uniqueTo": "Karelia",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"requiredNearbyImprovedResources": ["Iron"],
+		"requiredNearbyImprovedResources": [
+			"Iron"
+		],
 		"requiredTech": "Metal Casting",
-		"uniques": ["[+15]% Production when constructing [Spaceship part] units [in this city]",
+		"uniques": [
+			"[+15]% Production when constructing [Spaceship part] units [in this city]",
 			"[+15]% Production when constructing [Land] units [in this city]",
 			"[+1 Production] from [Iron] tiles [in this city]",
 			"[+1 Culture] <during the [Medieval era]>",
-			"[+1 Culture] <during the [Renaissance era]>"]
+			"[+1 Culture] <during the [Renaissance era]>"
+		]
 	},
 	{
 		"name": "Karelian Harbor",
@@ -52,9 +59,12 @@
 		"maintenance": 4,
 		"cityHealth": 40,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Production] from [Water resource] tiles [in this city]",
-			"Connects trade routes over water","Must be next to [Coast]",
-			"[+1 Production] from [Water resource] tiles [in this city]",],
+		"uniques": [
+			"[+1 Production] from [Water resource] tiles [in this city]",
+			"[+1 Gold] from [Water resource] tiles [in this city]",
+			"Connects trade routes over water",
+			"Must be next to [Coast]"
+		],
 		"requiredTech": "Compass"
 	},
 ]
