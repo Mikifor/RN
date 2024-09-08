@@ -67,8 +67,7 @@
 		"uniqueName": "The saga of Ilmoillin",
 		"uniqueText": "Starts with technology: Bronze Working",
 		"uniques": ["Starts with [Bronze Working]"],
-		"cities": ["Kazan","Yar Chaly","Bavly","Almet","Yashel Uzan","Bogelm","Alabuga","Leninogorsk","Chistopol","Zay",
-			"Aznakay","Norlat","Archa","Agryz","Kukmor","Mamadysh","Tetush","Laesh","Bolghar","Jalil",
-			"Kuibyshev zaton","Karabysh","Kama Alany","Baylar Sabasy","Karamaly Tau","Tenesh","Uryssu","Balyck Beestase"]
+		"cities": ["Kostomucksha","Kondopoga","Segezha","Sortavala","Medvezhegorsk","Kem'","Pytkyaranta","Belomorsk","Suoyarvi","Pudoj",
+			"Olonets","Lahdenpohya","Nadvoitsy","Peendushi","Kalevala","Louhi","Pryaja","Vyartsylya","Muezersky"]
 	},
 ]
