@@ -25,7 +25,7 @@
 		"terrainsCanBeBuiltOn": ["Land"],
 		"food": 4,
         "culture": 1,
-		"uniques": ["Provides [1] [Wheat]",
+		"uniques": ["Creates [1] [Wheat]",
         "Removes removable features when built","Great Improvement","Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles",
         "Irremovable"]
 	},
