@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Sweets market",
+		"name": "Рынок сладостей",
 		"replaces": "Market",
 		"uniqueTo": "Tatarstan",
 		"gold": 1,
@@ -15,7 +15,7 @@
 		"requiredTech": "Currency",
 	},
 	{
-		"name": "Horse farm",
+		"name": "Лошадиная ферма",
 		"replaces": "Windmill",
 		"uniqueTo": "Tatarstan",
 		"food": 3,
@@ -34,7 +34,7 @@
 		],
 	},
 	{
-		"name": "Paja",
+		"name": "Паджа",
 		"replaces": "Forge",
 		"uniqueTo": "Karelia",
 		"maintenance": 0,
@@ -52,7 +52,7 @@
 		]
 	},
 	{
-		"name": "Karelian Harbor",
+		"name": "Карельский Порт",
 		"replaces": "Harbor",
 		"uniqueTo": "Karelia",
 		"cost": 120,
@@ -67,20 +67,6 @@
 		],
 		"requiredTech": "Compass"
 	},
-	{
-		"name": "Ukrainian Granary",
-		"replaces": "Granary",
-		"uniqueTo": "Ukraine",
-		"food": 2,
-		"maintenance": 1,
-		"hurryCostModifier": 25,
-		"uniques": [
-			"Creates [1] [Wheat] resourse on a specific tile",
-			"Creates [1] [Wheat] resourses on a specific tile",
-			"[+1 Food] from [Deer] tiles [in this city]",
-			"[+1 Food] from [Bananas] tiles [in this city]",
-			"[+1 Food] from [Wheat] tiles [in this city]"],
-		"requiredTech": "Pottery"
-	},
+
 
 ]

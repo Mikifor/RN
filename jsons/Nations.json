@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Tatarstan",
+		"name": "Татарстан",
 		"leaderName": "Shigabutdin Marjani",
-		"adjective": ["Tatar"],
+		"adjective": ["Татарский"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
@@ -71,9 +71,9 @@
 			"Olonets","Lahdenpohya","Nadvoitsy","Peendushi","Kalevala","Louhi","Pryaja","Vyartsylya","Muezersky"]
 	},
 	{
-		"name": "Ukraine",
+		"name": "Chechnya",
 		"leaderName": "Shigabutdin Marjani",
-		"adjective": ["Ukrainian"],
+		"adjective": ["Chechen"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
