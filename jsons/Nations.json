@@ -26,8 +26,8 @@
 		"afterPeace": "Maybe we should celebrate the end of war?",
 		"tradeRequest": "I present you this trade offer.",
 
-		"outerColor": [43, 35, 82],
-		"innerColor": [189, 145, 158],
+		"outerColor": [255,241,0],
+		"innerColor": [41,65,214],
 		"uniqueName": "The nomadic culture",
 		"uniqueText": "All cities gain +2 culture, +1 Happiness, -1 production up to the medieval era.",
 		"uniques": ["[+2 Culture] [in all cities] <during the [Ancient era]>","[+1 Happiness] [in all cities] <during the [Ancient era]>","[-1 Production] [in all cities] <during the [Ancient era]>","[+2 Culture] [in all cities] <during the [Classical era]>","[+1 Happiness] [in all cities] <during the [Classical era]>","[-1 Production] [in all cities] <during the [Classical era]>","[-1 Production] [in all cities] <during the [Ancient era]>"],
@@ -62,8 +62,8 @@
 		"afterPeace": "Maybe we should celebrate the end of war?",
 		"tradeRequest": "I present you this trade offer.",
 
-		"outerColor": [12,75,25],
-		"innerColor": [157,172,255],
+		"outerColor": [14,39,66],
+		"innerColor": [121,168,85],
 		"uniqueName": "The saga of Ilmoillin",
 		"uniqueText": "Starts with technology: Bronze Working",
 		"uniques": ["Starts with [Bronze Working]"],
@@ -71,9 +71,9 @@
 			"Olonets","Lahdenpohya","Nadvoitsy","Peendushi","Kalevala","Louhi","Pryaja","Vyartsylya","Muezersky"]
 	},
 	{
-		"name": "Chechnya",
+		"name": "Чечня",
 		"leaderName": "Shigabutdin Marjani",
-		"adjective": ["Chechen"],
+		"adjective": ["Чеченский"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
@@ -97,12 +97,12 @@
 		"afterPeace": "Maybe we should celebrate the end of war?",
 		"tradeRequest": "I present you this trade offer.",
 
-		"outerColor": [12,75,25],
-		"innerColor": [157,172,255],
+		"outerColor": [143,130,126],
+		"innerColor": [255,250,242],
 		"uniqueName": "",
 		"uniqueText": "",
-		"uniques": [""],
-		"cities": ["Kostomucksha","Kondopoga","Segezha","Sortavala","Medvezhegorsk","Kem","Pytkyaranta","Belomorsk","Suoyarvi","Pudoj",
-			"Olonets","Lahdenpohya","Nadvoitsy","Peendushi","Kalevala","Louhi","Pryaja","Vyartsylya","Muezersky"]
+		"uniques": ["Starts with [Military Caste]"],
+		"cities": ["Грозный","Аргун","Ойсхара","Урус-Мартан","Серневодское","Ачхой-Мартан","Гудермес","Курчалой","Наурская","Шали",
+			"Шелковская","Горагорский","Стерч-Керч","Черноречье","Чири-Юрт", "Бердыкель"]
 	},
 ]
