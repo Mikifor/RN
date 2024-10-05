@@ -2,7 +2,7 @@
 	{
 		"name": "Рынок сладостей",
 		"replaces": "Market",
-		"uniqueTo": "Tatarstan",
+		"uniqueTo": "Татарстан",
 		"gold": 1,
 		"specialistSlots": {
 			"Merchant": 1
@@ -17,7 +17,7 @@
 	{
 		"name": "Лошадиная ферма",
 		"replaces": "Windmill",
-		"uniqueTo": "Tatarstan",
+		"uniqueTo": "Татарстан",
 		"food": 3,
 		"maintenance": 2,
 		"specialistSlots": {
@@ -36,7 +36,7 @@
 	{
 		"name": "Паджа",
 		"replaces": "Forge",
-		"uniqueTo": "Karelia",
+		"uniqueTo": "Карелия",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 		"requiredNearbyImprovedResources": [
@@ -54,7 +54,7 @@
 	{
 		"name": "Карельский Порт",
 		"replaces": "Harbor",
-		"uniqueTo": "Karelia",
+		"uniqueTo": "Карелия",
 		"cost": 120,
 		"maintenance": 4,
 		"cityHealth": 40,

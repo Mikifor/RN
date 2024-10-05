@@ -36,9 +36,9 @@
 			"Kuibyshev zaton","Karabysh","Kama Alany","Baylar Sabasy","Karamaly Tau","Tenesh","Uryssu","Balyck Beestase"]
 	},
 	{
-		"name": "Karelia",
+		"name": "Карелия",
 		"leaderName": "Shigabutdin Marjani",
-		"adjective": ["Karelian"],
+		"adjective": ["Карельский"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
