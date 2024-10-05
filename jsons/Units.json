@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Bull harness",
+		"name": "Бычья упряжь",
 		"unitType": "Civilian",
-		"uniqueTo": "Tatarstan",
+		"uniqueTo": "Татарстан",
 		"movement": 1,
 		"cost": 45,
 		"requiredTech": "Animal Husbandry",
@@ -10,9 +10,9 @@
 		"promotions": ["Bull power"],
 	},
 	{
-		"name": "Atly",
+		"name": "Атлы",
 		"unitType": "Mounted",
-		"uniqueTo": "Tatarstan",
+		"uniqueTo": "Татарстан",
 		"replaces": "Knight",
 		"movement": 5,
 		"strength": 24,
@@ -25,9 +25,9 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Laivan",
+		"name": "Лайван",
 		"unitType": "Melee Water",
-		"uniqueTo": "Karelia",
+		"uniqueTo": "Карелия",
 		"replaces": "Caravel",
 		"movement": 4,
 		"strength": 21,
@@ -40,9 +40,9 @@
 		"attackSound": "cannon"
 	},
 	{
-		"name": "Miekka",
+		"name": "Миекка",
 		"unitType": "Sword",
-		"uniqueTo": "Karelia",
+		"uniqueTo": "Карелия",
 		"replaces": "Longswordsman",
 		"movement": 2,
 		"strength": 21,
