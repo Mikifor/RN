@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Татарстан",
-		"leaderName": "Shigabutdin Marjani",
+		"leaderName": "Шигабутдин Марджани",
 		"adjective": ["Татарский"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
@@ -28,9 +28,10 @@
 
 		"outerColor": [255,241,0],
 		"innerColor": [41,65,214],
-		"uniqueName": "The nomadic culture",
-		"uniqueText": "All cities gain +2 culture, +1 Happiness, -1 production up to the medieval era.",
-		"uniques": ["[+2 Culture] [in all cities] <during the [Ancient era]>","[+1 Happiness] [in all cities] <during the [Ancient era]>","[-1 Production] [in all cities] <during the [Ancient era]>","[+2 Culture] [in all cities] <during the [Classical era]>","[+1 Happiness] [in all cities] <during the [Classical era]>","[-1 Production] [in all cities] <during the [Classical era]>","[-1 Production] [in all cities] <during the [Ancient era]>"],
+		"uniqueName": "Кочевая культура",
+		"uniqueText": "Все города получают +2 культуры, +1 счастья, -1 производства до начала средневековья.",
+		"uniques": ["[+2 Culture] [in all cities] <during the [Ancient era]>","[+1 Happiness] [in all cities] <during the [Ancient era]>","[-1 Production] [in all cities] <during the [Ancient era]>",
+					"[+2 Culture] [in all cities] <during the [Classical era]>","[+1 Happiness] [in all cities] <during the [Classical era]>","[-1 Production] [in all cities] <during the [Classical era]>","[-1 Production] [in all cities] <during the [Ancient era]>"],
 		"cities": ["Kazan","Yar Chaly","Bavly","Almet","Yashel Uzan","Bogelm","Alabuga","Leninogorsk","Chistopol","Zay",
 			"Aznakay","Norlat","Archa","Agryz","Kukmor","Mamadysh","Tetush","Laesh","Bolghar","Jalil",
 			"Kuibyshev zaton","Karabysh","Kama Alany","Baylar Sabasy","Karamaly Tau","Tenesh","Uryssu","Balyck Beestase"]
@@ -64,8 +65,8 @@
 
 		"outerColor": [14,39,66],
 		"innerColor": [121,168,85],
-		"uniqueName": "The saga of Ilmoillin",
-		"uniqueText": "Starts with technology: Bronze Working",
+		"uniqueName": "Сага об Ильмаринене",
+		"uniqueText": "Небесный кузнец Ильмаринен дарует Карелам огонь, дабы могли они ковать оружие из металла",
 		"uniques": ["Starts with [Bronze Working]"],
 		"cities": ["Kostomucksha","Kondopoga","Segezha","Sortavala","Medvezhegorsk","Kem","Pytkyaranta","Belomorsk","Suoyarvi","Pudoj",
 			"Olonets","Lahdenpohya","Nadvoitsy","Peendushi","Kalevala","Louhi","Pryaja","Vyartsylya","Muezersky"]

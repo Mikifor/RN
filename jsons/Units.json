@@ -75,6 +75,7 @@
 		"name": "Къобал",
 		"unitType": "Ranged Gunpowder",
 		"uniqueTo": "Чечня",
+		"replaces": "Machine Gun",
 		"range": 1,
 		"movement": 2,
 		"strength": 60,
