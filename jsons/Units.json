@@ -55,4 +55,35 @@
 		"promotions": ["The Taiga warrior", "Forest glade"],
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Жигарш хьо",
+		"unitType": "Sword",
+		"uniqueTo": "Чечня",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 80,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"requiredResource": "Iron",
+		"promotions": ["Charge"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Къобал",
+		"unitType": "Ranged Gunpowder",
+		"uniqueTo": "Чечня",
+		"range": 1,
+		"movement": 2,
+		"strength": 60,
+		"rangedStrength": 60,
+		"cost": 350,
+		"requiredTech": "Ballistics",
+		"promotions": ["Cover II"],
+		"upgradesTo": "Mechanized Infantry",
+		"attackSound": "machinegun"
+		// Upgrades to Bazooka in BNW
+	},
 ]

@@ -67,6 +67,27 @@
 		],
 		"requiredTech": "Compass"
 	},
-
+	{
+		"name": "Оплот Тайпа",
+		"replaces": "Castle",
+		"uniqueTo": "Чечня",
+		"gold": 1,
+		"cityStrength": 12,
+		"cityHealth": 45,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["[10]% Food is carried over after population increases [in this city]","Destroyed when the city is captured"]
+	},
+	{
+		"name": "Завия",
+		"replaces": "Shrine",
+		"uniqueTo": "Чечня",
+		"faith": 1,
+		"cost": 40,
+		"maintenance": 0,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled", "[+15]% Production when constructing [Military] units [in this city]",]
+	},
 
 ]

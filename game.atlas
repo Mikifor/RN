@@ -4,56 +4,56 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Karelian Harbor
+BuildingIcons/Карельский порт
   rotate: false
   xy: 4, 612
   size: 600, 600
   orig: 600, 600
   offset: 0, 0
   index: -1
-BuildingIcons/Paja
+BuildingIcons/Паджа
   rotate: false
   xy: 4, 4
   size: 600, 600
   orig: 600, 600
   offset: 0, 0
   index: -1
-NationIcons/Karelia
+NationIcons/Карелия
   rotate: false
   xy: 1230, 1260
   size: 570, 570
   orig: 570, 570
   offset: 0, 0
   index: -1
-NationIcons/Tatarstan
+NationIcons/Татарстан
   rotate: false
   xy: 1180, 164
   size: 520, 520
   orig: 520, 520
   offset: 0, 0
   index: -1
-UnitIcons/Atly
+UnitIcons/Атлы
   rotate: false
   xy: 4, 1220
   size: 610, 610
   orig: 610, 610
   offset: 0, 0
   index: -1
-UnitIcons/Bull harness
+UnitIcons/Бычья упряжь
   rotate: false
-  xy: 1230, 692
+  xy: 612, 652
   size: 560, 560
   orig: 560, 560
   offset: 0, 0
   index: -1
-UnitIcons/Laivan
+UnitIcons/Лаиван
   rotate: false
   xy: 612, 84
   size: 560, 560
   orig: 560, 560
   offset: 0, 0
   index: -1
-UnitIcons/Miekka
+UnitIcons/Миекка
   rotate: false
   xy: 622, 1230
   size: 600, 600
@@ -62,7 +62,7 @@ UnitIcons/Miekka
   index: -1
 UnitPromotionIcons/Bull power
   rotate: false
-  xy: 612, 652
+  xy: 1230, 692
   size: 560, 560
   orig: 560, 560
   offset: 0, 0

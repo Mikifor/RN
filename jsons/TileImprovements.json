@@ -19,14 +19,4 @@
         "weight": 10
     }
     */
-    {
-		"name": "Wheat farm",		
-        "uniqueTo": "Ukraine",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"food": 4,
-        "culture": 1,
-		"uniques": ["Creates [1] [Wheat]",
-        "Removes removable features when built","Great Improvement","Cannot be built on [Tundra] tiles","Cannot be built on [Snow] tiles",
-        "Irremovable"]
-	},
 ]
