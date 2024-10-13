@@ -6,25 +6,35 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Neverending glory be upon you, king Gilgamesh, most legendary and mystical ruler of Sumeria, whose hands built the city-walls of Uruk and saw the sage Utnapishtim! You are the leader of the Sumer, the first and the only civilization that was truely original and innovative. Sumer's history stretches back into time when the Gods were walking alongside mere mortals. The stories of your life amaze the world to this day, and after your death, the gods themselves welcomed you as one of their kind. You nation had a magnificent story as well: as the cradle of civilization, it made a great progress in history, giving the world beautiful things such as literature, architecture and music. Sumer's contribution to humankind are uncountable, and worthy of legends.",
-		"startIntroPart2": "Divine King, who, with strenght and wishdom, built the glory of ancient Sumer and became the very first hero of the history - your people seek for your guidance! The wealth of Euphrates, Tigris and the whole Fertile Crescent cannot be wasted in the hands of barbarians. Will you descend from the heavens to astonish the world with your incredible deeds once again? Can you once more bring glory and light to humankind? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Уважаемый Шигабутдин Марджани!
+
+		С сердечным уважением и благоговением обращаюсь к Вам, великому мыслителю и богослову, чье имя навсегда останется в сердцах нашего народа. Вы, как светоч знаний и мудрости, вознесли татарский народ на новые высоты, вдохнув в него дух просвещения и стремление к самосознанию.
 		
-		"declaringWar": "That's enough, prepare to be smashed into the dust!",
-		"attacked": "You dare to attack a demigod? You will regret this sooner than you think!",
+		Ваши труды по изучению и распространению ислама, а также усилия по сохранению татарского языка и культуры стали основой для формирования национальной идентичности. Вы показали, что знания — это ключ к величию, и именно через образование мы можем преодолеть любые преграды.
+		
+		Ваша неутомимая работа по созданию школ и библиотек, ваша преданность идеалам справедливости и равенства вдохновляют нас и сегодня. Вы научили нас ценить нашу культуру, уважать традиции и одновременно стремиться к современным знаниям.",
+		"startIntroPart2": "Ваша неутомимая работа по созданию школ и библиотек, ваша преданность идеалам справедливости и равенства вдохновляют нас и сегодня. Вы научили нас ценить нашу культуру, уважать традиции и одновременно стремиться к современным знаниям.
+
+		Пусть ваше наследие станет путеводной звездой для будущих поколений татар. Вдохновляйтесь вашим примером, чтобы вновь возродить дух единства и величия нашего народа. Давайте вместе стремиться к новым вершинам, сохраняя верность нашим корням и открывая новые горизонты для будущего.
+		
+		Да пребудет с Вами величие Татарстана!",
+		
+		"declaringWar": "Довольно! Твоё невежество привело нас к войне!",
+		"attacked": "Ты смеешь объявлять войну? Война с лучшим из соседей - вот к чему привела тебя твоя глупость!",
 		"defeated": "Defeat. A mere mortal emerged victorious. Can't wait to see how long you will last. Even demigods aren't invicible.",
-		"introduction": "I am Gilgamesh, a demigod who descended to Earth to lead the mighty city of Uruk. Let there be peace among us!",
+		"introduction": "Я Шигабутдин, ахун и мухтасиб Казани! Надеюсь, в тебе есть знания, способные сделать нас друзьями?",
 		
-		"neutralHello": "Be blessed, friend.",
-		"neutralLetsHearIt": ["Yes.","Let's discuss."],
-		"neutralNo": ["No way.","Never!"],
-		"neutralYes": ["Very good.","Of course, yes.","I gladly accept."],
-		"hateHello": "Go on!",
-		"hateLetsHearIt": "Just speak, don't waste my time!",
-		"hateNo": ["Are you joking?","Are you sure?"],
-		"hateYes": ["I can accept.","Fine.","Let it be."],
+		"neutralHello": "Доброго дня.",
+		"neutralLetsHearIt": ["Да?.","Давай обсудим."],
+		"neutralNo": ["Невозможно.","Никогда!"],
+		"neutralYes": ["Вполне неплохо.","Конечно, да.","С удовольствием соглашусь."],
+		"hateHello": "А, это ты!",
+		"hateLetsHearIt": "Говори уже, не трать зря время!",
+		"hateNo": ["Да ты шутишь?","Ты в своём уме?"],
+		"hateYes": ["Что ж... Допустим, я приму это...","Позволительно.","Да будет так."],
 		
-		"afterPeace": "Maybe we should celebrate the end of war?",
-		"tradeRequest": "I present you this trade offer.",
+		"afterPeace": "Так отпразднуем мир на наших землях!",
+		"tradeRequest": "Это разумное предложение. Оцени его.",
 
 		"outerColor": [255,241,0],
 		"innerColor": [41,65,214],
@@ -73,18 +83,26 @@
 	},
 	{
 		"name": "Чечня",
-		"leaderName": "Shigabutdin Marjani",
+		"leaderName": "Шейх Мансур",
 		"adjective": ["Чеченский"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Neverending glory be upon you, king Gilgamesh, most legendary and mystical ruler of Sumeria, whose hands built the city-walls of Uruk and saw the sage Utnapishtim! You are the leader of the Sumer, the first and the only civilization that was truely original and innovative. Sumer's history stretches back into time when the Gods were walking alongside mere mortals. The stories of your life amaze the world to this day, and after your death, the gods themselves welcomed you as one of their kind. You nation had a magnificent story as well: as the cradle of civilization, it made a great progress in history, giving the world beautiful things such as literature, architecture and music. Sumer's contribution to humankind are uncountable, and worthy of legends.",
-		"startIntroPart2": "Divine King, who, with strenght and wishdom, built the glory of ancient Sumer and became the very first hero of the history - your people seek for your guidance! The wealth of Euphrates, Tigris and the whole Fertile Crescent cannot be wasted in the hands of barbarians. Will you descend from the heavens to astonish the world with your incredible deeds once again? Can you once more bring glory and light to humankind? Can you build a civilization that will stand the test of time?",
+		"startIntroPart1": "Прославленный в веках шейх Мансур,
+
+		С глубоким уважением и благоговением обращаюсь к Вам, великому проповеднику и военачальнику, чье имя стало символом мужества и стойкости для чеченского народа. Ваше наследие, основанное на принципах справедливости, верности и преданности своему народу, вдохновляет нас и сегодня.
 		
-		"declaringWar": "That's enough, prepare to be smashed into the dust!",
-		"attacked": "You dare to attack a demigod? You will regret this sooner than you think!",
-		"defeated": "Defeat. A mere mortal emerged victorious. Can't wait to see how long you will last. Even demigods aren't invicible.",
-		"introduction": "I am Gilgamesh, a demigod who descended to Earth to lead the mighty city of Uruk. Let there be peace among us!",
+		Вы стали не только военным лидером, но и духовным наставником, сумев объединить чеченцев в стремлении к свободе и независимости. Ваша мудрость и решимость в борьбе за права своего народа, ваша способность вести за собой в самые трудные времена — это те качества, которые делают Вас великим лидером.",
+		"startIntroPart2": "Сегодня, когда перед нами стоят новые вызовы, Ваше руководство вновь необходимо. Чеченский народ всегда отличался своей силой духа, единством и готовностью защищать свои традиции и ценности. Напоминайте своему народу о величии его истории, о тех славных страницах, которые были написаны мужеством и самопожертвованием.
+
+		Ваша миссия — вдохновить людей на новые свершения, на восстановление гордости за свою культуру и язык. Пусть каждый чеченец ощутит в себе силу предков и стремление к величию, которое было заложено в нашем народе веками.
+		
+		С надеждой на светлое будущее и верой в силу нашего единства, Ваши люди следуют за Вами, готовые к новым свершениям.",
+		
+		"declaringWar": "С тебя хватит жить, готовься к смерти!",
+		"attacked": "Ты напал на меня? ХА-ХА-ХА!",
+		"defeated": "Поражение... Чтож, по крайней мере, мои люди не опозорили своих имён в кровавом пиршестве клинков...",
+		"introduction": "Моё имя - Мансур! За мной стоит весь чеченский народ. Что ты хочешь нам сказать?",
 		
 		"neutralHello": "Be blessed, friend.",
 		"neutralLetsHearIt": ["Yes.","Let's discuss."],
